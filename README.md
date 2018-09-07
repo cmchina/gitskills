@@ -1,2 +1,2 @@
 # gitskills
-this change from master branch -HEAD
+this change from master-and-new branch -HEAD
