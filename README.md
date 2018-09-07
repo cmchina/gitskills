@@ -1,2 +1,2 @@
 # gitskills
-this change from dev branch -HEAD
+this change from new branch -HEAD
